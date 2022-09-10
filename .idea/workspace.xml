@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e9b0202e-f883-41f9-982b-7fa25eae53b2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/method/ClientApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/method/LandVehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/method/SeaVehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/method/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/model/Boat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/model/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/model/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/model/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/model/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/simple/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/simple/TransportClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/factory/simple/VehicleFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/constant/Types.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/handler/NotificationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/publisher/BasePublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/publisher/NotificationPublisher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/subscriber/AndroidSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/subscriber/BaseSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/subscriber/EmailSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/subscriber/SmsSubscriber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/singleton/tutorial1/SimpleSingletonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/singleton/tutorial1/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/singleton/tutorial1/ThreadSafeSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/singleton/tutorial1/ThreadSafeSingletonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/singleton/tutorial1/ThreadUnsafeSingletonApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/strategy/tutorial1/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/strategy/tutorial1/controller/ScoreBoardContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/strategy/tutorial1/model/BalloonStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/strategy/tutorial1/model/ClownStratergy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/strategy/tutorial1/model/SquareBalloonStrategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/me/namila/tutorial/SimpleSingletonAppTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2EDXWaFtol8XgMbkaSWj9sIkrAW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="me.namila.tutorial.pattern.factory.tutorial1.method" />
+      <recent name="me.namila.tutorial.pattern.factory.tutorial1.model" />
+      <recent name="me.namila.tutorial.pattern.factory.tutorial1.simple" />
+      <recent name="me.namila.tutorial.pattern.singleton.tutorial1" />
+      <recent name="me.namila.tutorial.pattern.observer.tutorial1.subscribers" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.ClientApp">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.namila.tutorial.pattern.factory.tutorial1.simple.App" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.namila.tutorial.pattern.factory.tutorial1.simple.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ClientApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.namila.tutorial.pattern.factory.method.ClientApp" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.namila.tutorial.pattern.factory.method.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleSingletonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.namila.tutorial.pattern.singleton.tutorial1.SimpleSingletonApp" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.namila.tutorial.pattern.singleton.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadSafeSingletonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.namila.tutorial.pattern.singleton.tutorial1.ThreadSafeSingletonApp" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.namila.tutorial.pattern.singleton.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThreadUnsafeSingletonApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="me.namila.tutorial.pattern.singleton.tutorial1.ThreadUnsafeSingletonApp" />
+      <module name="design-patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="me.namila.tutorial.pattern.singleton.tutorial1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ClientApp" />
+        <item itemvalue="Application.me.namila.tutorial.pattern.factory.tutorial1.simple.App" />
+        <item itemvalue="Application.ThreadUnsafeSingletonApp" />
+        <item itemvalue="Application.ThreadSafeSingletonApp" />
+        <item itemvalue="Application.SimpleSingletonApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e9b0202e-f883-41f9-982b-7fa25eae53b2" name="Changes" comment="" />
+      <created>1662131160892</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1662131160892</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/constant/Types.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/me/namila/tutorial/pattern/observer/tutorial1/publisher/BasePublisher.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
